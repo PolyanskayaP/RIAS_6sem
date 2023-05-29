@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/TOAuPGPjN/XC9bXUAs2mC+BDrBXbpgRs7rnIAxNn3o=",
+  "Source": "6_1_2",
+  "BasePath": "_content/6_1_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "6_1_2\\wwwroot",
+      "Source": "6_1_2",
+      "ContentRoot": "C:\\!Полина\\!6семестр\\РИАС\\6practice\\6_1_2\\wwwroot\\",
+      "BasePath": "_content/6_1_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\!Полина\\!6семестр\\РИАС\\6practice\\6_1_2\\wwwroot\\index.html",
+      "SourceId": "6_1_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\!Полина\\!6семестр\\РИАС\\6practice\\6_1_2\\wwwroot\\",
+      "BasePath": "_content/6_1_2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

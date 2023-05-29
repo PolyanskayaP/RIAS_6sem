@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "mE3mroFTNnktJsEL+ZbVred2IqRLsh4SLttbmPHR6IY=",
+  "Source": "8_3",
+  "BasePath": "_content/8_3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "8_3\\wwwroot",
+      "Source": "8_3",
+      "ContentRoot": "C:\\!Полина\\!6семестр\\РИАС\\8practice\\8_3\\wwwroot\\",
+      "BasePath": "_content/8_3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\!Полина\\!6семестр\\РИАС\\8practice\\8_3\\wwwroot\\index.html",
+      "SourceId": "8_3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\!Полина\\!6семестр\\РИАС\\8practice\\8_3\\wwwroot\\",
+      "BasePath": "_content/8_3",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "7hRfJMbgGYsj0nFUP9/y0Vbg2sIquH8Wub4P61jVAtE=",
+  "Source": "721_test",
+  "BasePath": "_content/721_test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "721_test\\wwwroot",
+      "Source": "721_test",
+      "ContentRoot": "C:\\!Полина\\!6семестр\\РИАС\\7practice\\721_test\\wwwroot\\",
+      "BasePath": "_content/721_test",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\!Полина\\!6семестр\\РИАС\\7practice\\721_test\\wwwroot\\index.html",
+      "SourceId": "721_test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\!Полина\\!6семестр\\РИАС\\7practice\\721_test\\wwwroot\\",
+      "BasePath": "_content/721_test",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

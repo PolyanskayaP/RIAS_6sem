@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rewrite>
+	<rules>
+		<rule name="Redirect">
+			<match url = "(.*)"/>
+			<conditions>
+				<add input="{REQUEST_URI}" pattern="([a-z]+)/([a-z]+)/([0-9]+)" matchType="Pattern" />
+			</conditions>
+			<action type="Redirect" url ="{C:1}/{C:3}" />
+		</rule>
+	</rules>
+</rewrite>
